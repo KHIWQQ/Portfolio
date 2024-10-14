@@ -1269,13 +1269,3 @@ footer .credits a {
     bottom: 15px;
   }
 }
-
-.section-counter .container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.section-counter .row {
-  text-align: center;
-}
